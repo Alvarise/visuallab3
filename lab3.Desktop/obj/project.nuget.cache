@@ -1,0 +1,284 @@
+{
+  "version": 2,
+  "dgSpecHash": "K+/7dCghfu8Gi0kfHHRCe1q2a4h9zGTiyDsR3a/cvfRjmFYinN+0WfiRkkXrA5Xg+yjUGabjlZ3h5TbZEbLpIw==",
+  "success": false,
+  "projectFilePath": "C:\\Programming\\VisProg\\lab3.Desktop\\lab3.Desktop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alvarise\\.nuget\\packages\\avalonia\\0.4.0\\avalonia.0.4.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\avalonia.controls.datagrid\\0.10.0\\avalonia.controls.datagrid.0.10.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\avalonia.desktop\\0.4.0\\avalonia.desktop.0.4.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\avalonia.diagnostics\\0.10.0\\avalonia.diagnostics.0.10.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\avalonia.fonts.inter\\11.0.0\\avalonia.fonts.inter.11.0.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\avalonia.reactiveui\\0.6.0\\avalonia.reactiveui.0.6.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\avalonia.remote.protocol\\0.10.0\\avalonia.remote.protocol.0.10.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\avalonia.themes.fluent\\11.0.0\\avalonia.themes.fluent.11.0.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\jetbrains.annotations\\10.3.0\\jetbrains.annotations.10.3.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\2.9.6\\microsoft.codeanalysis.analyzers.2.9.6.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\microsoft.codeanalysis.common\\3.4.0\\microsoft.codeanalysis.common.3.4.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.4.0\\microsoft.codeanalysis.csharp.3.4.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\microsoft.codeanalysis.csharp.scripting\\3.4.0\\microsoft.codeanalysis.csharp.scripting.3.4.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\microsoft.codeanalysis.scripting.common\\3.4.0\\microsoft.codeanalysis.scripting.common.3.4.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\1.3.0\\microsoft.codeanalysis.visualbasic.1.3.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\microsoft.netcore.app\\1.0.5\\microsoft.netcore.app.1.0.5.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\microsoft.netcore.dotnethost\\1.0.1\\microsoft.netcore.dotnethost.1.0.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\1.0.5\\microsoft.netcore.dotnethostpolicy.1.0.5.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\1.0.1\\microsoft.netcore.dotnethostresolver.1.0.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\microsoft.netcore.jit\\1.0.7\\microsoft.netcore.jit.1.0.7.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\microsoft.netcore.runtime.coreclr\\1.0.7\\microsoft.netcore.runtime.coreclr.1.0.7.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\microsoft.netcore.windows.apisets\\1.0.1\\microsoft.netcore.windows.apisets.1.0.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\microsoft.visualbasic\\10.0.1\\microsoft.visualbasic.10.0.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\microsoft.win32.primitives\\4.0.1\\microsoft.win32.primitives.4.0.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\microsoft.win32.registry\\4.0.0\\microsoft.win32.registry.4.0.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\netstandard.library\\1.6.0\\netstandard.library.1.6.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\reactiveui\\8.0.0-alpha0073\\reactiveui.8.0.0-alpha0073.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\runtime.native.system\\4.0.0\\runtime.native.system.4.0.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\runtime.native.system.io.compression\\4.1.0\\runtime.native.system.io.compression.4.1.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\runtime.native.system.net.http\\4.0.1\\runtime.native.system.net.http.4.0.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\runtime.native.system.net.security\\4.0.1\\runtime.native.system.net.security.4.0.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\runtime.native.system.security.cryptography\\4.0.1\\runtime.native.system.security.cryptography.4.0.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\serilog\\1.5.14\\serilog.1.5.14.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\sharpdx\\3.0.2\\sharpdx.3.0.2.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\sharpdx.direct2d1\\3.0.2\\sharpdx.direct2d1.3.0.2.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\sharpdx.dxgi\\3.0.2\\sharpdx.dxgi.3.0.2.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\splat\\2.0.0\\splat.2.0.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\sprache\\2.0.0.50\\sprache.2.0.0.50.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.appcontext\\4.1.0\\system.appcontext.4.1.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.buffers\\4.0.0\\system.buffers.4.0.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.collections.concurrent\\4.0.12\\system.collections.concurrent.4.0.12.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.componentmodel.annotations\\4.1.0\\system.componentmodel.annotations.4.1.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.console\\4.0.0\\system.console.4.0.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.0.0\\system.diagnostics.diagnosticsource.4.0.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.diagnostics.process\\4.1.0\\system.diagnostics.process.4.1.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.diagnostics.tools\\4.0.1\\system.diagnostics.tools.4.0.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.diagnostics.tracing\\4.1.0\\system.diagnostics.tracing.4.1.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.dynamic.runtime\\4.3.0\\system.dynamic.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.globalization.calendars\\4.0.1\\system.globalization.calendars.4.0.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.globalization.extensions\\4.0.1\\system.globalization.extensions.4.0.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.io.compression\\4.1.0\\system.io.compression.4.1.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.io.compression.zipfile\\4.0.1\\system.io.compression.zipfile.4.0.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.io.filesystem\\4.0.1\\system.io.filesystem.4.0.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.io.filesystem.primitives\\4.0.1\\system.io.filesystem.primitives.4.0.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.io.filesystem.watcher\\4.0.0\\system.io.filesystem.watcher.4.0.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.io.memorymappedfiles\\4.0.0\\system.io.memorymappedfiles.4.0.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.io.unmanagedmemorystream\\4.0.1\\system.io.unmanagedmemorystream.4.0.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.linq.parallel\\4.0.1\\system.linq.parallel.4.0.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.linq.queryable\\4.0.1\\system.linq.queryable.4.0.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.net.http\\4.1.2\\system.net.http.4.1.2.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.net.nameresolution\\4.0.0\\system.net.nameresolution.4.0.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.net.primitives\\4.0.11\\system.net.primitives.4.0.11.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.net.requests\\4.0.11\\system.net.requests.4.0.11.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.net.security\\4.0.1\\system.net.security.4.0.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.net.sockets\\4.1.0\\system.net.sockets.4.1.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.net.webheadercollection\\4.0.1\\system.net.webheadercollection.4.0.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.numerics.vectors\\4.1.1\\system.numerics.vectors.4.1.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.objectmodel\\4.3.0\\system.objectmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.reactive.core\\3.0.0\\system.reactive.core.3.0.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.reactive.interfaces\\3.0.0\\system.reactive.interfaces.3.0.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.reactive.linq\\3.0.0\\system.reactive.linq.3.0.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.reactive.platformservices\\3.0.0\\system.reactive.platformservices.3.0.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.reflection.dispatchproxy\\4.0.1\\system.reflection.dispatchproxy.4.0.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.resources.reader\\4.0.0\\system.resources.reader.4.0.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.runtime.handles\\4.3.0\\system.runtime.handles.4.3.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.runtime.interopservices\\4.3.0\\system.runtime.interopservices.4.3.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.0.0\\system.runtime.interopservices.runtimeinformation.4.0.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.runtime.interopservices.windowsruntime\\4.0.1\\system.runtime.interopservices.windowsruntime.4.0.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.runtime.loader\\4.0.0\\system.runtime.loader.4.0.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.runtime.numerics\\4.0.1\\system.runtime.numerics.4.0.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.security.claims\\4.0.1\\system.security.claims.4.0.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.security.cryptography.algorithms\\4.2.0\\system.security.cryptography.algorithms.4.2.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.security.cryptography.cng\\4.2.0\\system.security.cryptography.cng.4.2.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.security.cryptography.csp\\4.0.0\\system.security.cryptography.csp.4.0.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.security.cryptography.encoding\\4.0.0\\system.security.cryptography.encoding.4.0.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.security.cryptography.openssl\\4.0.0\\system.security.cryptography.openssl.4.0.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.security.cryptography.primitives\\4.0.0\\system.security.cryptography.primitives.4.0.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.1.0\\system.security.cryptography.x509certificates.4.1.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.security.principal\\4.0.1\\system.security.principal.4.0.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.security.principal.windows\\4.0.0\\system.security.principal.windows.4.0.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.text.encoding.extensions\\4.0.11\\system.text.encoding.extensions.4.0.11.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.text.regularexpressions\\4.1.0\\system.text.regularexpressions.4.1.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.threading.overlapped\\4.0.1\\system.threading.overlapped.4.0.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.threading.tasks.dataflow\\4.6.0\\system.threading.tasks.dataflow.4.6.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.threading.tasks.parallel\\4.0.1\\system.threading.tasks.parallel.4.0.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.threading.thread\\4.0.0\\system.threading.thread.4.0.0.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.threading.threadpool\\4.0.10\\system.threading.threadpool.4.0.10.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.threading.timer\\4.0.1\\system.threading.timer.4.0.1.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.xml.readerwriter\\4.0.11\\system.xml.readerwriter.4.0.11.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Alvarise\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1604",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Зависимость проекта Avalonia.Desktop не содержит включенную нижнюю границу. Включите нижнюю границу в версию зависимости, чтобы обеспечить согласованные результаты восстановления.",
+      "libraryId": "Avalonia.Desktop",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v7.0"
+      ]
+    },
+    {
+      "code": "NU1602",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "lab3 не задает включенную нижнюю границу для зависимости Avalonia. Использовано наилучшее приближенное соответствие Avalonia 0.4.0.",
+      "libraryId": "Avalonia",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1602",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "lab3 не задает включенную нижнюю границу для зависимости Avalonia.Diagnostics. Использовано наилучшее приближенное соответствие Avalonia.Diagnostics 0.10.0.",
+      "libraryId": "Avalonia.Diagnostics",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1602",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "lab3 не задает включенную нижнюю границу для зависимости Avalonia.Fonts.Inter. Использовано наилучшее приближенное соответствие Avalonia.Fonts.Inter 11.0.0.",
+      "libraryId": "Avalonia.Fonts.Inter",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1602",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "lab3 не задает включенную нижнюю границу для зависимости Avalonia.ReactiveUI. Использовано наилучшее приближенное соответствие Avalonia.ReactiveUI 0.6.0.",
+      "libraryId": "Avalonia.ReactiveUI",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1602",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "lab3 не задает включенную нижнюю границу для зависимости Avalonia.Themes.Fluent. Использовано наилучшее приближенное соответствие Avalonia.Themes.Fluent 11.0.0.",
+      "libraryId": "Avalonia.Themes.Fluent",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Avalonia 0.4.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Avalonia",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Avalonia.Desktop 0.4.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Avalonia.Desktop",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Serilog 1.5.14\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Serilog",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"SharpDX 3.0.2\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "SharpDX",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"SharpDX.Direct2D1 3.0.2\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "SharpDX.Direct2D1",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"SharpDX.DXGI 3.0.2\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "SharpDX.DXGI",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Sprache 2.0.0.50\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Sprache",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1107",
+      "level": "Error",
+      "message": "Обнаружен конфликт версий для System.Reactive. Установите или укажите прямую ссылку System.Reactive 5.0.0 на проект lab3.Desktop, чтобы устранить эту проблему. \r\n lab3.Desktop -> lab3 -> Avalonia.Diagnostics 0.10.0 -> System.Reactive (>= 5.0.0) \r\n lab3.Desktop -> lab3 -> Avalonia.ReactiveUI 0.6.0 -> reactiveui 8.0.0-alpha0073 -> System.Reactive (>= 3.1.1 && < 4.0.0).",
+      "libraryId": "System.Reactive",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

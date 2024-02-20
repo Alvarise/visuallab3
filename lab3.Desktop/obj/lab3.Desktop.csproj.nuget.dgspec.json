@@ -1,0 +1,182 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Programming\\VisProg\\lab3.Desktop\\lab3.Desktop.csproj": {}
+  },
+  "projects": {
+    "C:\\Programming\\VisProg\\lab3.Desktop\\lab3.Desktop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Programming\\VisProg\\lab3.Desktop\\lab3.Desktop.csproj",
+        "projectName": "lab3.Desktop",
+        "projectPath": "C:\\Programming\\VisProg\\lab3.Desktop\\lab3.Desktop.csproj",
+        "packagesPath": "C:\\Users\\Alvarise\\.nuget\\packages\\",
+        "outputPath": "C:\\Programming\\VisProg\\lab3.Desktop\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alvarise\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Programming\\VisProg\\lab3\\lab3.csproj": {
+                "projectPath": "C:\\Programming\\VisProg\\lab3\\lab3.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Avalonia.Desktop": {
+              "target": "Package",
+              "version": "(, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Programming\\VisProg\\lab3\\lab3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Programming\\VisProg\\lab3\\lab3.csproj",
+        "projectName": "lab3",
+        "projectPath": "C:\\Programming\\VisProg\\lab3\\lab3.csproj",
+        "packagesPath": "C:\\Users\\Alvarise\\.nuget\\packages\\",
+        "outputPath": "C:\\Programming\\VisProg\\lab3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Alvarise\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Avalonia": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Avalonia.Diagnostics": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Avalonia.Fonts.Inter": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Avalonia.ReactiveUI": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Avalonia.Themes.Fluent": {
+              "target": "Package",
+              "version": "(, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
